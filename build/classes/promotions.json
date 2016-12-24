@@ -1,0 +1,17 @@
+{
+		"promo1": {
+			"promoName": "Buy X quantity of item for the price of Y quantity",
+			"xQty": "1",
+			"yQty": "1"
+		},
+		"promo2": {
+			"promoName": "X percent off on the price of a product",
+			"xPercentage": "10"
+		},
+		"promo3": {
+			"promoName": "Buy 1 X & 1 Y for Z",
+			"xItem": "1111",
+			"yItem": "2222",
+			"fixedPrice": "10"
+		}
+}
